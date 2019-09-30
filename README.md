@@ -23,7 +23,10 @@ Thank you for considering contributing to the Laravel framework! The contributio
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Screen Shot
-
+check super CRUD From stores controller
+https://github.com/islam-reda/Laravel-Social-Blog-Chat-Posts/blob/master/app/Http/Controllers/StoresController.php
+in base view
+https://github.com/islam-reda/Laravel-Social-Blog-Chat-Posts/blob/master/resources/views/base/index.blade.php
 
 ![10-3-2018 1-52-52 PM](https://user-images.githubusercontent.com/38462856/65892743-21587680-e3a7-11e9-8eb9-bf764fc03adc.png)
 ![10-3-2018 1-53-32 PM](https://user-images.githubusercontent.com/38462856/65892744-21f10d00-e3a7-11e9-8167-abf4c48bb89f.png)
